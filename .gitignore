@@ -10,6 +10,8 @@ hosting/.cache
 
 # Firebase Functions
 /functions/node_modules/
+/web/node_modules/
+/firebase/functions/node_modules/
 /functions/.env
 /functions/package-lock.json
 
